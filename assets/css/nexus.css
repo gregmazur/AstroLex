@@ -94,6 +94,7 @@ body {
 
 .phone{
   font-size: 30px;
+  float: left;
 }
 /* Logo */
 .logo {
