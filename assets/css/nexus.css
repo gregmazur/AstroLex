@@ -93,8 +93,12 @@ body {
 }
 
 .phone{
+  position: absolute;
   font-size: 30px;
-  float: left;
+  right: 0;
+}
+.phone a{
+  color: whitesmoke;
 }
 /* Logo */
 .logo {
