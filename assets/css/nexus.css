@@ -108,6 +108,9 @@ body {
   font-size: 35px;
   font-family: 'Roboto', sans-serif;
 }
+.picture{
+  max-width: 200px;
+}
 /* Logo */
 .logo {
   text-align: center;
