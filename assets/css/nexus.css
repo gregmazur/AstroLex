@@ -96,6 +96,9 @@ body {
   font-size: 30px;
   float: left;
 }
+.picture{
+  max-width: 200px;
+}
 /* Logo */
 .logo {
   text-align: center;
