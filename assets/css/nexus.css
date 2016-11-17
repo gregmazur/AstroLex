@@ -96,17 +96,12 @@ body {
 }
 
 .phone{
-  top: 5px;
-  position: absolute;
   font-size: 30px;
-  right: 0;
-}
-.phone a{
-  color: whitesmoke;
+  float: left;
 }
 .phone span{
-  font-size: 35px;
-  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: red;
 }
 .picture{
   max-width: 200px;
