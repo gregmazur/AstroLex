@@ -45,6 +45,9 @@ body {
   color: #656565;
   height: 100%;
 }
+.text-indent{
+  text-indent: 3%;
+}
 #header,
 .parallax-bg1,
 .parallax-bg2,
@@ -65,9 +68,6 @@ body {
 .container.no-padding {
   padding-left: 20px !important;
   padding-right: 20px !important;
-}
-.picture{
-  max-width: 200px;
 }
 .parallax-bg1 {
   background: url("../img/parallax-bg1.jpg") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
@@ -103,8 +103,11 @@ body {
   font-size: 30px;
   color: red;
 }
-.picture{
+.picture-aboutus{
   max-width: 200px;
+}
+.picture-lawinfo{
+  max-width: 300px;
 }
 /* Logo */
 .logo {
@@ -123,7 +126,7 @@ body {
 }
 p.site-slogan {
   color: #b1a5bd;
-  font-size: 12px;
+  font-size: 15px;
   letter-spacing: 8px;
   top: 68px;
   z-index: 20;
