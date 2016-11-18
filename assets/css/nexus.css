@@ -2914,4 +2914,33 @@ ul.posts-list li {
   min-height: 40px;
   text-align: center;
 }
-
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Raleway Thin'), local('Raleway-Thin'), url(/assets/fonts/raleway-thin.woff) format('woff');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Raleway Light'), local('Raleway-Light'), url(/assets/fonts/raleway-light.woff) format('woff');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(/assets/fonts/Raleway-regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(/assets/fonts/Roboto-Light.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(/assets/fonts/Roboto-Regular.woff) format('woff');
+}
