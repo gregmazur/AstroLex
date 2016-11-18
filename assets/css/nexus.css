@@ -45,8 +45,9 @@ body {
   color: #656565;
   height: 100%;
 }
-.text-indent{
+.passage{
   text-indent: 3%;
+  text-align: justify;
 }
 #header,
 .parallax-bg1,
