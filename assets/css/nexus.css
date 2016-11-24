@@ -45,10 +45,6 @@ body {
   color: #656565;
   height: 100%;
 }
-.passage{
-  text-indent: 3%;
-  text-align: justify;
-}
 #header,
 .parallax-bg1,
 .parallax-bg2,
@@ -94,21 +90,6 @@ body {
   vertical-align: middle;
   width: 100%;
   max-width: none;
-}
-
-.phone{
-  font-size: 30px;
-  float: left;
-}
-.phone span{
-  font-size: 30px;
-  color: red;
-}
-.picture-aboutus{
-  max-width: 200px;
-}
-.picture-lawinfo{
-  max-width: 300px;
 }
 /* Logo */
 .logo {
@@ -2913,34 +2894,4 @@ ul.posts-list li {
   line-height: 40px;
   min-height: 40px;
   text-align: center;
-}
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 100;
-  src: url(/assets/fonts/raleway-thin.woff) format('woff');
-}
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Raleway Light'), local('Raleway-Light'), url(/assets/fonts/raleway-light.woff) format('woff');
-}
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Raleway'), local('Raleway-Regular'), url(/assets/fonts/Raleway-regular.woff) format('woff');
-}
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Roboto Light'), local('Roboto-Light'), url(/assets/fonts/Roboto-Light.woff) format('woff');
-}
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(/assets/fonts/Roboto-Regular.woff) format('woff');
 }

@@ -1,0 +1,24 @@
+.passage{
+    text-indent: 3%;
+    text-align: justify;
+}
+.phone{
+    font-size: 30px;
+    float: left;
+}
+.phone span{
+    font-size: 30px;
+    color: red;
+}
+.picture-aboutus{
+    max-width: 200px;
+}
+.picture-lawinfo{
+    max-width: 300px;
+}
+.nobotom-list{
+
+}
+ul.nobotom-list li{
+    border-bottom: none;
+}
