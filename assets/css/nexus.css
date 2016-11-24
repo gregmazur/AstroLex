@@ -2918,7 +2918,7 @@ ul.posts-list li {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 100;
-  src: local('Raleway Thin'), local('Raleway-Thin'), url(/assets/fonts/raleway-thin.woff) format('woff');
+  src: url(/assets/fonts/raleway-thin.woff) format('woff');
 }
 @font-face {
   font-family: 'Raleway';
