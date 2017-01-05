@@ -22,3 +22,27 @@
 ul.nobotom-list li{
     border-bottom: none;
 }
+
+.color-dark-black {
+    color: #040627 !important;
+}
+
+.color-dark-red {
+    color: #c90200 !important;
+}
+
+.color-dark-blue{
+    color: #303c9d !important;
+}
+
+.color-dark-bl {
+    color: #0a061d !important;
+}
+
+.color-white {
+    color: #dcdcdc !important;
+}
+
+.color-background-black {
+    background-color: #d5d5d5 !important;
+}
